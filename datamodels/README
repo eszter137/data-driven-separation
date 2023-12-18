@@ -1,0 +1,2 @@
+Part of this code is already published at https://github.com/sgoldt/conv_emerge for the paper "Data-driven emergence of convolutional structure in neural networks" [arXiv:2202.00565]
+For the paper "Learning from higher-order statistics, efficiently: hypothesis tests, random features, and neural networks" [arXiv:...], we added the whitened model and spiked gaussian data models.
